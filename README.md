@@ -1,5 +1,9 @@
 # Time_Series
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Heithem-Tn/Time_Series/main)
+## Content
+
+- [the sisters and google trends](#the-sisters-and-google-trends)
+- [results](#results)
 
 ## 1. The sisters and Google Trends
 <p>While I'm not a fan nor a hater of the Kardashians and Jenners, the polarizing family intrigues me. Why? Their marketing prowess. Say what you will about them and what they stand for, they are great at the hype game. Everything they touch turns to content.</p>
