@@ -29,3 +29,6 @@
   * sous point
 <p><img src="data/kj.png" alt="Kardashian Jenner sisters family tree"></p>
 
+## :open_file_folder: Datasets
+
+[datasets:](https://github.com/Heithem-Tn/Time_Series/blob/a02d63acdb2ac7f36b5f5b358a15efa8def5eb28/data/trends_kj_sisters.csv)
