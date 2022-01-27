@@ -45,3 +45,14 @@
 | 12 | hello   | 22 |
 | 25 | world   | 26 |
 | 36 | bonjour | 28 |
+
+## Code
+```
+for column in trends.columns:
+    if "<" in trends[column].to_string():
+        trends[column] = trends[column].str.replace('<', '')
+        trends[column] = pd.to_numeric(trends[column])
+
+trends.info()
+trends.head()
+```
