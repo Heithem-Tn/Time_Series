@@ -1,7 +1,7 @@
 # Time_Series
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Heithem-Tn/Time_Series/main)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Heithem-Tn/Time_Series/f4837ecd1587a62f1f07074e4193aa00ba203a8c?urlpath=lab%2Ftree%2Fdatacamp%20project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Heithem-Tn/Time_Series/main?filepath=%2Ftree%2Fdatacamp%20project.ipynb)
 
 ## Content
 
