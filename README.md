@@ -32,3 +32,11 @@
 ## :open_file_folder: Datasets
 
 [datasets:](https://github.com/Heithem-Tn/Time_Series/blob/a02d63acdb2ac7f36b5f5b358a15efa8def5eb28/data/trends_kj_sisters.csv)
+
+## Tableau
+
+| ID | C1      | C2 |
+|----|---------|----|
+| 12 | hello   | 22 |
+| 25 | world   | 26 |
+| 36 | bonjour | 28 |
