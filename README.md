@@ -47,7 +47,7 @@
 | 36 | bonjour | 28 |
 
 ## Code
-```
+```python
 for column in trends.columns:
     if "<" in trends[column].to_string():
         trends[column] = trends[column].str.replace('<', '')
